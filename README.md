@@ -1,11 +1,11 @@
 # alx-higher_level_programming
 ---
-###Concepts
+### Concepts
 For this project, we expect you to look at this concept:
 Python programming
 
-##Resources
-###Read or watch:
+## Resources
+### Read or watch:
 
 - The Python tutorial (only the first three chapters below)
 - Whetting Your Appetite
@@ -16,5 +16,6 @@ Python programming
 - Pycodestyle – Style Guide for Python Code
 
 | Project | Description |
+---
 | 0x00. Python - Hello, World | At the end of this project, you are expected to be able to explain to anyone, introduction to  python programming without google |
-
+---
