@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Singly linked list"""
 
+
 class Node:
     """defines a node of a singly linked list"""
 
