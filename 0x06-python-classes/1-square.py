@@ -3,6 +3,7 @@
 No module imported
 """
 
+
 class Square:
     """
     Defines a square by private instance size,
