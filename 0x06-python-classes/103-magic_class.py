@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Define a MagicClass matching exactly a bytecode provided by ALX."""
 
+
 import math
 
 class MagicClass:
